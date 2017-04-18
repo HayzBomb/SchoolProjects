@@ -1,0 +1,1 @@
+/usr/bin/c++.exe  -g  -Wl,--enable-auto-import CMakeFiles/PiggyBank.dir/main.cpp.o CMakeFiles/PiggyBank.dir/PiggyBank.cpp.o  -o PiggyBank.exe -Wl,--out-implib,libPiggyBank.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/Hayzb/CLionProjects/devilsDice/main.cpp
+cstdlib
+-
+ctime
+-
+iostream
+-
+iomanip
+-
+fstream
+-
+string
+-
+

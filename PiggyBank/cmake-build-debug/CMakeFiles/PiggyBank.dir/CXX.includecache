@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/Hayzb/CLionProjects/PiggyBank/PiggyBank.cpp
+PiggyBank.h
+/cygdrive/c/Users/Hayzb/CLionProjects/PiggyBank/PiggyBank.h
+
+/cygdrive/c/Users/Hayzb/CLionProjects/PiggyBank/PiggyBank.h
+iostream
+-
+string
+-
+
+/cygdrive/c/Users/Hayzb/CLionProjects/PiggyBank/main.cpp
+iostream
+-
+iomanip
+-
+PiggyBank.h
+/cygdrive/c/Users/Hayzb/CLionProjects/PiggyBank/PiggyBank.h
+

@@ -1,0 +1,3 @@
+/cygdrive/c/Users/Hayzb/CLionProjects/Lab Challenge 4/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/cygdrive/c/Users/Hayzb/CLionProjects/Lab Challenge 4/cmake-build-debug/CMakeFiles/edit_cache.dir
+/cygdrive/c/Users/Hayzb/CLionProjects/Lab Challenge 4/cmake-build-debug/CMakeFiles/Lab_Challenge_4.dir

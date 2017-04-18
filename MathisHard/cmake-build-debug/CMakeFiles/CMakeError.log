@@ -1,0 +1,116 @@
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /usr/bin/c++.exe 
+Build flags: 
+Id flags: 
+
+The output was:
+1
+c++: fatal error: -fuse-linker-plugin, but cyglto_plugin.dll not found
+compilation terminated.
+
+
+Determining if the CXX compiler works failed with the following output:
+Change Dir: /cygdrive/c/Users/Hayzb/CLionProjects/MathisHard/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make.exe" "cmTC_1aa10/fast"
+/usr/bin/make -f CMakeFiles/cmTC_1aa10.dir/build.make CMakeFiles/cmTC_1aa10.dir/build
+make[1]: Entering directory '/cygdrive/c/Users/Hayzb/CLionProjects/MathisHard/cmake-build-debug/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_1aa10.dir/testCXXCompiler.cxx.o
+/usr/bin/c++.exe      -o CMakeFiles/cmTC_1aa10.dir/testCXXCompiler.cxx.o -c /cygdrive/c/Users/Hayzb/CLionProjects/MathisHard/cmake-build-debug/CMakeFiles/CMakeTmp/testCXXCompiler.cxx
+Linking CXX executable cmTC_1aa10.exe
+/cygdrive/c/Users/Hayzb/.CLion2016.3/system/cygwin_cmake/bin/cmake.exe -E cmake_link_script CMakeFiles/cmTC_1aa10.dir/link.txt --verbose=1
+/usr/bin/c++.exe     -Wl,--enable-auto-import  CMakeFiles/cmTC_1aa10.dir/testCXXCompiler.cxx.o  -o cmTC_1aa10.exe -Wl,--out-implib,libcmTC_1aa10.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
+c++: fatal error: -fuse-linker-plugin, but cyglto_plugin.dll not found
+compilation terminated.
+make[1]: *** [CMakeFiles/cmTC_1aa10.dir/build.make:98: cmTC_1aa10.exe] Error 1
+make[1]: Leaving directory '/cygdrive/c/Users/Hayzb/CLionProjects/MathisHard/cmake-build-debug/CMakeFiles/CMakeTmp'
+make: *** [Makefile:126: cmTC_1aa10/fast] Error 2
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /usr/bin/c++.exe 
+Build flags: 
+Id flags: 
+
+The output was:
+1
+c++: fatal error: -fuse-linker-plugin, but cyglto_plugin.dll not found
+compilation terminated.
+
+
+Determining if the CXX compiler works failed with the following output:
+Change Dir: /cygdrive/c/Users/Hayzb/CLionProjects/MathisHard/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make.exe" "cmTC_b06c6/fast"
+/usr/bin/make -f CMakeFiles/cmTC_b06c6.dir/build.make CMakeFiles/cmTC_b06c6.dir/build
+make[1]: Entering directory '/cygdrive/c/Users/Hayzb/CLionProjects/MathisHard/cmake-build-debug/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_b06c6.dir/testCXXCompiler.cxx.o
+/usr/bin/c++.exe      -o CMakeFiles/cmTC_b06c6.dir/testCXXCompiler.cxx.o -c /cygdrive/c/Users/Hayzb/CLionProjects/MathisHard/cmake-build-debug/CMakeFiles/CMakeTmp/testCXXCompiler.cxx
+Linking CXX executable cmTC_b06c6.exe
+/cygdrive/c/Users/Hayzb/.CLion2016.3/system/cygwin_cmake/bin/cmake.exe -E cmake_link_script CMakeFiles/cmTC_b06c6.dir/link.txt --verbose=1
+/usr/bin/c++.exe     -Wl,--enable-auto-import  CMakeFiles/cmTC_b06c6.dir/testCXXCompiler.cxx.o  -o cmTC_b06c6.exe -Wl,--out-implib,libcmTC_b06c6.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
+c++: fatal error: -fuse-linker-plugin, but cyglto_plugin.dll not found
+compilation terminated.
+make[1]: *** [CMakeFiles/cmTC_b06c6.dir/build.make:98: cmTC_b06c6.exe] Error 1
+make[1]: Leaving directory '/cygdrive/c/Users/Hayzb/CLionProjects/MathisHard/cmake-build-debug/CMakeFiles/CMakeTmp'
+make: *** [Makefile:126: cmTC_b06c6/fast] Error 2
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /usr/bin/c++.exe 
+Build flags: 
+Id flags: 
+
+The output was:
+1
+c++: fatal error: -fuse-linker-plugin, but cyglto_plugin.dll not found
+compilation terminated.
+
+
+Determining if the CXX compiler works failed with the following output:
+Change Dir: /cygdrive/c/Users/Hayzb/CLionProjects/MathisHard/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make.exe" "cmTC_3badc/fast"
+/usr/bin/make -f CMakeFiles/cmTC_3badc.dir/build.make CMakeFiles/cmTC_3badc.dir/build
+make[1]: Entering directory '/cygdrive/c/Users/Hayzb/CLionProjects/MathisHard/cmake-build-debug/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_3badc.dir/testCXXCompiler.cxx.o
+/usr/bin/c++.exe      -o CMakeFiles/cmTC_3badc.dir/testCXXCompiler.cxx.o -c /cygdrive/c/Users/Hayzb/CLionProjects/MathisHard/cmake-build-debug/CMakeFiles/CMakeTmp/testCXXCompiler.cxx
+Linking CXX executable cmTC_3badc.exe
+/cygdrive/c/Users/Hayzb/.CLion2016.3/system/cygwin_cmake/bin/cmake.exe -E cmake_link_script CMakeFiles/cmTC_3badc.dir/link.txt --verbose=1
+/usr/bin/c++.exe     -Wl,--enable-auto-import  CMakeFiles/cmTC_3badc.dir/testCXXCompiler.cxx.o  -o cmTC_3badc.exe -Wl,--out-implib,libcmTC_3badc.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
+c++: fatal error: -fuse-linker-plugin, but cyglto_plugin.dll not found
+compilation terminated.
+make[1]: *** [CMakeFiles/cmTC_3badc.dir/build.make:98: cmTC_3badc.exe] Error 1
+make[1]: Leaving directory '/cygdrive/c/Users/Hayzb/CLionProjects/MathisHard/cmake-build-debug/CMakeFiles/CMakeTmp'
+make: *** [Makefile:126: cmTC_3badc/fast] Error 2
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /usr/bin/c++.exe 
+Build flags: 
+Id flags: 
+
+The output was:
+1
+c++: fatal error: -fuse-linker-plugin, but cyglto_plugin.dll not found
+compilation terminated.
+
+
+Determining if the CXX compiler works failed with the following output:
+Change Dir: /cygdrive/c/Users/Hayzb/CLionProjects/MathisHard/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make.exe" "cmTC_23bd2/fast"
+/usr/bin/make -f CMakeFiles/cmTC_23bd2.dir/build.make CMakeFiles/cmTC_23bd2.dir/build
+make[1]: Entering directory '/cygdrive/c/Users/Hayzb/CLionProjects/MathisHard/cmake-build-debug/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_23bd2.dir/testCXXCompiler.cxx.o
+/usr/bin/c++.exe      -o CMakeFiles/cmTC_23bd2.dir/testCXXCompiler.cxx.o -c /cygdrive/c/Users/Hayzb/CLionProjects/MathisHard/cmake-build-debug/CMakeFiles/CMakeTmp/testCXXCompiler.cxx
+Linking CXX executable cmTC_23bd2.exe
+/cygdrive/c/Users/Hayzb/.CLion2016.3/system/cygwin_cmake/bin/cmake.exe -E cmake_link_script CMakeFiles/cmTC_23bd2.dir/link.txt --verbose=1
+/usr/bin/c++.exe     -Wl,--enable-auto-import  CMakeFiles/cmTC_23bd2.dir/testCXXCompiler.cxx.o  -o cmTC_23bd2.exe -Wl,--out-implib,libcmTC_23bd2.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
+c++: fatal error: -fuse-linker-plugin, but cyglto_plugin.dll not found
+compilation terminated.
+make[1]: *** [CMakeFiles/cmTC_23bd2.dir/build.make:98: cmTC_23bd2.exe] Error 1
+make[1]: Leaving directory '/cygdrive/c/Users/Hayzb/CLionProjects/MathisHard/cmake-build-debug/CMakeFiles/CMakeTmp'
+make: *** [Makefile:126: cmTC_23bd2/fast] Error 2
+
+

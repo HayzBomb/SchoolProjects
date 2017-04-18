@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/Hayzb/CLionProjects/LunarLander2/LanderSim.cpp
+iostream
+-
+iomanip
+-
+math.h
+-
+LunarLander.hpp
+/cygdrive/c/Users/Hayzb/CLionProjects/LunarLander2/LunarLander.hpp
+time.h
+-
+fstream
+-
+string
+-
+cstdlib
+-
+
+/cygdrive/c/Users/Hayzb/CLionProjects/LunarLander2/LunarLander.cpp
+iostream
+-
+math.h
+-
+LunarLander.hpp
+/cygdrive/c/Users/Hayzb/CLionProjects/LunarLander2/LunarLander.hpp
+
+/cygdrive/c/Users/Hayzb/CLionProjects/LunarLander2/LunarLander.hpp
+

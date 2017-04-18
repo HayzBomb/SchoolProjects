@@ -1,0 +1,64 @@
+C:\Users\Hayzb\.CLion2016.3\system\cygwin_cmake\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /cygdrive/c/Users/Hayzb/CLionProjects/MathisHard
+-- The CXX compiler identification is GNU 5.3.0
+-- Check for working CXX compiler: /usr/bin/c++.exe
+-- Check for working CXX compiler: /usr/bin/c++.exe -- broken
+CMake Error at /cygdrive/c/Users/Hayzb/.CLion2016.3/system/cygwin_cmake/share/cmake-3.6.3/Modules/CMakeTestCXXCompiler.cmake:54 (message):
+  The C++ compiler "/usr/bin/c++.exe" is not able to compile a simple test
+  program.
+
+  It fails with the following output:
+
+   Change Dir: /cygdrive/c/Users/Hayzb/CLionProjects/MathisHard/cmake-build-debug/CMakeFiles/CMakeTmp
+
+  
+
+  Run Build Command:"/usr/bin/make.exe" "cmTC_23bd2/fast"
+
+  /usr/bin/make -f CMakeFiles/cmTC_23bd2.dir/build.make
+  CMakeFiles/cmTC_23bd2.dir/build
+
+  make[1]: Entering directory
+  '/cygdrive/c/Users/Hayzb/CLionProjects/MathisHard/cmake-build-debug/CMakeFiles/CMakeTmp'
+
+
+  Building CXX object CMakeFiles/cmTC_23bd2.dir/testCXXCompiler.cxx.o
+
+  /usr/bin/c++.exe -o CMakeFiles/cmTC_23bd2.dir/testCXXCompiler.cxx.o -c
+  /cygdrive/c/Users/Hayzb/CLionProjects/MathisHard/cmake-build-debug/CMakeFiles/CMakeTmp/testCXXCompiler.cxx
+
+
+  Linking CXX executable cmTC_23bd2.exe
+
+  /cygdrive/c/Users/Hayzb/.CLion2016.3/system/cygwin_cmake/bin/cmake.exe -E
+  cmake_link_script CMakeFiles/cmTC_23bd2.dir/link.txt --verbose=1
+
+  /usr/bin/c++.exe -Wl,--enable-auto-import
+  CMakeFiles/cmTC_23bd2.dir/testCXXCompiler.cxx.o -o cmTC_23bd2.exe
+  -Wl,--out-implib,libcmTC_23bd2.dll.a
+  -Wl,--major-image-version,0,--minor-image-version,0
+
+  c++: fatal error: -fuse-linker-plugin, but cyglto_plugin.dll not found
+
+  compilation terminated.
+
+  make[1]: *** [CMakeFiles/cmTC_23bd2.dir/build.make:98: cmTC_23bd2.exe]
+  Error 1
+
+  make[1]: Leaving directory
+  '/cygdrive/c/Users/Hayzb/CLionProjects/MathisHard/cmake-build-debug/CMakeFiles/CMakeTmp'
+
+
+  make: *** [Makefile:126: cmTC_23bd2/fast] Error 2
+
+  
+
+  
+
+  CMake will not be able to correctly generate this project.
+Call Stack (most recent call first):
+  CMakeLists.txt:2 (project)
+
+
+-- Configuring incomplete, errors occurred!
+See also "/cygdrive/c/Users/Hayzb/CLionProjects/MathisHard/cmake-build-debug/CMakeFiles/CMakeOutput.log".
+See also "/cygdrive/c/Users/Hayzb/CLionProjects/MathisHard/cmake-build-debug/CMakeFiles/CMakeError.log".

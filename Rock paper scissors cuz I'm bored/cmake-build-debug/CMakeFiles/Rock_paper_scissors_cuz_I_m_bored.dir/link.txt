@@ -1,0 +1,1 @@
+/usr/bin/c++.exe  -g  -Wl,--enable-auto-import CMakeFiles/Rock_paper_scissors_cuz_I_m_bored.dir/main.cpp.o  -o Rock_paper_scissors_cuz_I_m_bored.exe -Wl,--out-implib,libRock_paper_scissors_cuz_I_m_bored.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

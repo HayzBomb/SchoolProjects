@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/Hayzb/CLionProjects/ColorSmoosh/main.cpp
+iomanip
+-
+iostream
+-
+fstream
+-
+string
+-
+math.h
+-
+

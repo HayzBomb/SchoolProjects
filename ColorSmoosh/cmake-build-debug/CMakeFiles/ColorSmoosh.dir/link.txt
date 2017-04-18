@@ -1,0 +1,1 @@
+/usr/bin/c++.exe  -g  -Wl,--enable-auto-import CMakeFiles/ColorSmoosh.dir/main.cpp.o  -o ColorSmoosh.exe -Wl,--out-implib,libColorSmoosh.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

@@ -1,0 +1,3 @@
+/cygdrive/c/Users/Hayzb/CLionProjects/Rock paper scissors cuz I'm bored/cmake-build-debug/CMakeFiles/edit_cache.dir
+/cygdrive/c/Users/Hayzb/CLionProjects/Rock paper scissors cuz I'm bored/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/cygdrive/c/Users/Hayzb/CLionProjects/Rock paper scissors cuz I'm bored/cmake-build-debug/CMakeFiles/Rock_paper_scissors_cuz_I_m_bored.dir

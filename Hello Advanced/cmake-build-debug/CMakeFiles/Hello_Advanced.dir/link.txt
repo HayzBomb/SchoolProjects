@@ -1,0 +1,1 @@
+/usr/bin/c++.exe  -g  -Wl,--enable-auto-import CMakeFiles/Hello_Advanced.dir/main.cpp.o  -o Hello_Advanced.exe -Wl,--out-implib,libHello_Advanced.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

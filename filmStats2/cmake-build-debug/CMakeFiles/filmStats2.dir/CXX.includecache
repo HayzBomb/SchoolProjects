@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/Hayzb/CLionProjects/filmStats2/FilmStats.cpp
+iostream
+-
+fstream
+-
+FilmStats.h
+/cygdrive/c/Users/Hayzb/CLionProjects/filmStats2/FilmStats.h
+
+/cygdrive/c/Users/Hayzb/CLionProjects/filmStats2/FilmStats.h
+
+/cygdrive/c/Users/Hayzb/CLionProjects/filmStats2/filmMain.cpp
+iostream
+-
+iomanip
+-
+FilmStats.h
+/cygdrive/c/Users/Hayzb/CLionProjects/filmStats2/FilmStats.h
+
